@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331538937016",
+    "project_id": "chatappmadlab",
+    "storage_bucket": "chatappmadlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331538937016:android:a89fea534ce4ff0bb0704d",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO6AjvewTR-XX3pTgYMqKlsDZUL45FSBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
